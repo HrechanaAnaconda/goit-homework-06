@@ -1,0 +1,31 @@
+.container {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+@media screen and (min-width: 767px) {
+  .container {
+    width: 288px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    width: 736px;
+  }
+}
+
+@media screen and (min-width: 1158px) {
+  .container {
+    width: 1158px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px;
+  }
+}
+
+/* .page-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}   */
