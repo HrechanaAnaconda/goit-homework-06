@@ -61,6 +61,8 @@
   background-color: #404bbf;
 }
 
+/* 768px-1157px */
+
 @media screen and (min-width: 768px) {
   .hero {
     max-width: 1157px;
@@ -94,9 +96,11 @@
   }
 }
 
+/* 1158px */
+
 @media screen and (min-width: 1158px) {
   .hero {
-    max-width: 1440px;
+    max-width: 1540px;
     height: 600px;
     padding: 188px 0;
     background-image: linear-gradient(
