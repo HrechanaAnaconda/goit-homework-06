@@ -12,20 +12,20 @@
 @media screen and (min-width: 768px) {
   .container {
     width: 736px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
 @media screen and (min-width: 1158px) {
   .container {
     width: 1158px;
-    margin-left: auto;
-    margin-right: auto;
     padding: 0 15px;
   }
 }
 
-/* .page-container {
+.page-container {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-}   */
+}
