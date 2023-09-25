@@ -234,8 +234,8 @@
   }
 
   .nav-link {
+    color: #2e2f42;
     position: relative;
-    padding: 24px 0;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -251,7 +251,7 @@
     content: "";
     left: 0;
     width: 100%;
-    bottom: -1px;
+    bottom: -24px;
     height: 4px;
     border-radius: 2px;
     color: #404bbf;
@@ -262,7 +262,7 @@
     position: absolute;
     left: 0;
     width: 100%;
-    bottom: -1px;
+    bottom: -24px;
     height: 4px;
     border-radius: 2px;
     background-color: #404bbf;
